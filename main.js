@@ -10,6 +10,6 @@ while(contador< listadeteclas.length){
     listaDeTeclas[contador].onclick = function (){
         tocasom (idAudio)
     }
-    contador = contador +1
-    console.log(contador)
+    contador = contador +1;
+    console.log(contador);
 }
